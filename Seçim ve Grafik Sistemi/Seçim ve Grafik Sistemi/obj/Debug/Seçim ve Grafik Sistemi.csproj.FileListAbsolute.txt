@@ -1,0 +1,11 @@
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\bin\Debug\Seçim ve Grafik Sistemi.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\bin\Debug\Seçim ve Grafik Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\bin\Debug\Seçim ve Grafik Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim ve Grafik Sistemi.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim_ve_Grafik_Sistemi.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim_ve_Grafik_Sistemi.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim ve Grafik Sistemi.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim ve Grafik Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim ve Grafik Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim ve Grafik Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Seçim ve Grafik Sistemi\Seçim ve Grafik Sistemi\obj\Debug\Seçim_ve_Grafik_Sistemi.FrmSeçim.resources
